@@ -40,9 +40,6 @@ PlayerSettings:
     height: 1
   m_SplashScreenLogos: []
   m_VirtualRealitySplashScreen: {fileID: 0}
-  m_ShowUnitySplashAds: 0
-  m_AdsAndroidGameId: 
-  m_AdsIosGameId: 
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -123,7 +120,6 @@ PlayerSettings:
   wiiUSupportsProController: 0
   wiiUAllowScreenCapture: 1
   wiiUControllerCount: 0
-  useSecurityBuild: 0
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
